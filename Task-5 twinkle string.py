@@ -1,0 +1,6 @@
+#program to print string in a specific format
+#Author:joswin shaju
+#date:05/10/2024
+
+twkl = ("Twinkle, twinkle, little star,\n \t How I wonder what you are!\n \t \t Up above the world so high,\n \t \t Like a diamond in the sky. \n Twinkle, twinkle, little star, \n \t How I wonder what you are")
+print(twkl)
