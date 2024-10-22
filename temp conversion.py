@@ -10,4 +10,4 @@ elif ch=="F":
     foc=5/9*(temp-32)
     print(temp, "Fahrenheit is",foc,"Celcius")
 else:
-    (print("ivalid syntax"))
+    print("ivalid syntax")
