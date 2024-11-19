@@ -1,5 +1,5 @@
 '''author=Joswin Shaju
-date:20/11/24'''
+date:19/11/24'''
 
 r=int(input("enter the row:"))
 for i in range(r):
