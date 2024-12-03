@@ -1,9 +1,10 @@
-'''author: Joswin Shaju
-date:15/10/2024'''
+'''name:Joswin Shaju
+date:03-12-2024'''
 
-num=int(input("enter the number:"))
-fact=1
-while num>0:
-    fact=fact*num
-    num-=1
-print(fact)
+def factorial(n):
+    if n==0:
+        return 1
+    else:
+        return n*factorial(n-1)
+f=factorial(7)
+print(f)
